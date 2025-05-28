@@ -1,0 +1,6 @@
+livekit-agents[openai,silero,deepgram,turn-detector]~=1.0
+python-dotenv
+aiohttp
+fastapi
+uvicorn
+pydantic
