@@ -2,6 +2,7 @@ from dataclasses import dataclass
 from typing import Dict, Any, List, Optional, Union, Tuple
 from livekit.agents import ChatContext
 
+
 @dataclass
 class SharedData:
     """Shared data between agents."""
